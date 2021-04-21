@@ -72,3 +72,9 @@ body ul {
 .social-logos img {
     margin-left: 5px;
 }
+
+.input-group {
+    margin: auto;
+    padding-top: 10px;
+    max-width: 1240px;
+}

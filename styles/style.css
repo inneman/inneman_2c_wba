@@ -1,0 +1,85 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body ul {
+  margin-left: auto;
+}
+
+body .menu-bar {
+  background-color: #3dc2df;
+}
+
+body .nav-link {
+  font-size: 20px;
+  margin: 3px;
+  color: white !important;
+  font-weight: 500;
+}
+
+body .nav-link:hover {
+  font-weight: 600;
+}
+
+body .navbar-nav {
+  text-align: right;
+}
+
+body .menu-bar .navbar-toggler {
+  margin-right: 20px;
+  outline: none !important;
+  border: none !important;
+}
+
+body .bg-color {
+  background-color: #3dc2df;
+  opacity: 80%;
+  color: white;
+}
+
+body #about_title, body #contacts_title {
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 2px solid black;
+}
+
+body #gallery_title {
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 2px solid white;
+}
+
+body .row h5 {
+  font-weight: bold;
+}
+
+body .map {
+  border: 1px solid black;
+}
+
+body .social-logos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-right: 15px;
+}
+
+body .social-logos img {
+  margin-left: 5px;
+}
+
+body .input-group {
+  margin: auto;
+  padding-top: 10px;
+  max-width: 1240px;
+}
+
+body .label-bg {
+  background-color: black;
+}
+/*# sourceMappingURL=style.css.map */
